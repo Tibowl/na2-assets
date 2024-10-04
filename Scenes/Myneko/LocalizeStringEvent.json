@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3131675323234992751
+  },
+  "m_Enabled": 0,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 562846096782619484
+  },
+  "m_Name": "",
+  "m_StringReference": {
+    "m_TableReference": {
+      "m_TableCollectionName": ""
+    },
+    "m_TableEntryReference": {
+      "m_KeyId": 0,
+      "m_Key": ""
+    },
+    "m_FallbackState": 0,
+    "m_WaitForCompletion": 0,
+    "m_LocalVariables": []
+  },
+  "m_FormatArguments": [],
+  "m_UpdateString": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": 7010619279526216303
+          },
+          "m_TargetAssemblyTypeName": "TMPro.TMP_Text, Unity.TextMeshPro",
+          "m_MethodName": "set_text",
+          "m_Mode": 0,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 1
+        }
+      ]
+    }
+  },
+  "references": {
+    "version": 2,
+    "RefIds": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2094620440520723386
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4229221235308036203
+  },
+  "m_Name": "",
+  "titleSpriteEvent": {
+    "m_FileID": 0,
+    "m_PathID": -396485966537454662
+  },
+  "dots": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5621281447843820614
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3537528914772259910
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3635495110075321274
+    }
+  ],
+  "train": {
+    "m_FileID": 0,
+    "m_PathID": 929888388391865274
+  },
+  "wheel": {
+    "m_FileID": 0,
+    "m_PathID": -7096361921713697862
+  },
+  "rail": {
+    "m_FileID": 0,
+    "m_PathID": 6904713800189119418
+  }
+}

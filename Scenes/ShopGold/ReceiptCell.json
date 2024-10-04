@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -110250043060297394
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1500174251915202509
+  },
+  "m_Name": "",
+  "date": {
+    "m_FileID": 0,
+    "m_PathID": 3705619169041015118
+  },
+  "message": {
+    "m_FileID": 0,
+    "m_PathID": 981256340038771022
+  },
+  "price": {
+    "m_FileID": 0,
+    "m_PathID": -3968153179591581362
+  }
+}

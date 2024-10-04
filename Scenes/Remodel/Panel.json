@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6244756764095116353
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9028338162482249493
+  },
+  "m_Name": "",
+  "safeArea": {
+    "m_FileID": 0,
+    "m_PathID": -1072731060227378111
+  },
+  "image": {
+    "m_FileID": 0,
+    "m_PathID": -1065334407206702015
+  },
+  "IsDestoyRequested": 0
+}

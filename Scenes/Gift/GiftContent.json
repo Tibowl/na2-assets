@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6596929426865912492
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7244971159445255558
+  },
+  "m_Name": "",
+  "nameLocalize": {
+    "m_FileID": 0,
+    "m_PathID": 207713267198461268
+  },
+  "nameText": {
+    "m_FileID": 0,
+    "m_PathID": -2825411926154017452
+  },
+  "catIcon": {
+    "m_FileID": 0,
+    "m_PathID": -3712759933624646316
+  },
+  "goldFish": {
+    "m_FileID": 0,
+    "m_PathID": -5762288216876251820
+  },
+  "normalFish": {
+    "m_FileID": 0,
+    "m_PathID": 1712115463554388
+  },
+  "goodsIcon": {
+    "m_FileID": 0,
+    "m_PathID": -2606817568578599596
+  },
+  "acceptButton": {
+    "m_FileID": 0,
+    "m_PathID": 4313530194245846356
+  },
+  "dateText": {
+    "m_FileID": 0,
+    "m_PathID": -4299369079014095532
+  }
+}

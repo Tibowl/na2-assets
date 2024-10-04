@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7080061014789348031
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2448385483817701071
+  },
+  "m_Name": "",
+  "button": {
+    "m_FileID": 0,
+    "m_PathID": -6155900516091321023
+  },
+  "image": {
+    "m_FileID": 0,
+    "m_PathID": -8430802885443738303
+  },
+  "priceText": {
+    "m_FileID": 0,
+    "m_PathID": 1790423340962981185
+  },
+  "boughtStamp": {
+    "m_FileID": 0,
+    "m_PathID": -2984945729065867967
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6443177980871000023
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3262415125579201121
+  },
+  "m_Name": "",
+  "cells": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8150964689800544215
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5493818031001681961
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5746254619671478231
+    }
+  ],
+  "techoButton": {
+    "m_FileID": 0,
+    "m_PathID": -3650452104664760361
+  }
+}

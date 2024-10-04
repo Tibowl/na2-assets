@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -116530607185958793
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7687573813886782846
+  },
+  "m_Name": "",
+  "menuButton": {
+    "m_FileID": 0,
+    "m_PathID": -5037399229491615625
+  },
+  "yardButton": {
+    "m_FileID": 0,
+    "m_PathID": 6171500648101800055
+  },
+  "bestButton": {
+    "m_FileID": 0,
+    "m_PathID": 2504270483432368247
+  }
+}

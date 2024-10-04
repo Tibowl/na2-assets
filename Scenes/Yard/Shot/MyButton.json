@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5709695941459492846
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2564684787279068127
+  },
+  "m_Name": "",
+  "image": {
+    "m_FileID": 0,
+    "m_PathID": 207923111553548306
+  },
+  "text": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "<ClickSe>k__BackingField": 13,
+  "<StateCount>k__BackingField": 2,
+  "onDownScale": 0.95,
+  "canvasGroup": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

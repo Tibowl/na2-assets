@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2078294718433655486
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2303069347380981317
+  },
+  "m_Name": "",
+  "panel": {
+    "m_FileID": 0,
+    "m_PathID": -1938361334434235714
+  },
+  "card": {
+    "m_FileID": 0,
+    "m_PathID": -147005042162074946
+  },
+  "counter": {
+    "m_FileID": 0,
+    "m_PathID": 6592452101159779006
+  }
+}

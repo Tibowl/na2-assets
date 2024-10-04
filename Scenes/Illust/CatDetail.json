@@ -1,0 +1,74 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1658761813616210337
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2852222826662749723
+  },
+  "m_Name": "",
+  "nameField": {
+    "m_FileID": 0,
+    "m_PathID": 1868742125214125663
+  },
+  "nameLocalize": {
+    "m_FileID": 0,
+    "m_PathID": 1319799800099327583
+  },
+  "iconImage": {
+    "m_FileID": 0,
+    "m_PathID": 831018120354942559
+  },
+  "photoImage": {
+    "m_FileID": 0,
+    "m_PathID": -6631783071163789729
+  },
+  "personalityText": {
+    "m_FileID": 0,
+    "m_PathID": -1711833037475656097
+  },
+  "powerText": {
+    "m_FileID": 0,
+    "m_PathID": -5415029206261739937
+  },
+  "countText": {
+    "m_FileID": 0,
+    "m_PathID": -8929626205069357473
+  },
+  "colorText": {
+    "m_FileID": 0,
+    "m_PathID": 6759981723269287519
+  },
+  "goodsTexts": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1670810858521932193
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5564749669792632415
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3343413960792584609
+    }
+  ],
+  "albumButton": {
+    "m_FileID": 0,
+    "m_PathID": -3001351977766859169
+  },
+  "mementoButton": {
+    "m_FileID": 0,
+    "m_PathID": 7454847083777707615
+  },
+  "mementoImage": {
+    "m_FileID": 0,
+    "m_PathID": -1848017958283751841
+  },
+  "dateText": {
+    "m_FileID": 0,
+    "m_PathID": -3206160403559461281
+  }
+}

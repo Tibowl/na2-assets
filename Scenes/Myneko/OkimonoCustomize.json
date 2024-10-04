@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7050827539784483299
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4598438555350066666
+  },
+  "m_Name": "",
+  "slots": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4366007279672639971
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6739053902429208093
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8532350613438087651
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -866385664147079651
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7505228848791862813
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3611591079314735587
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4096935042556280349
+    }
+  ],
+  "submitButton": {
+    "m_FileID": 0,
+    "m_PathID": -3062782955583586787
+  },
+  "mynekoImage": {
+    "m_FileID": 0,
+    "m_PathID": -8989499137823621603
+  }
+}

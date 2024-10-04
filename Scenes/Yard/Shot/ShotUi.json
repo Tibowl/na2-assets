@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5308672247133742075
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3856792972048096342
+  },
+  "m_Name": "",
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": -6830157421230662651
+  },
+  "shotButtons": {
+    "m_FileID": 0,
+    "m_PathID": 6487896285464714245
+  },
+  "frame": {
+    "m_FileID": 0,
+    "m_PathID": 1707449187454180357
+  }
+}

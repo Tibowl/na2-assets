@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 419166859607621020
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4237480266072061224
+  },
+  "m_Name": "",
+  "goodsName": {
+    "m_FileID": 0,
+    "m_PathID": -6924094175874237028
+  },
+  "image": {
+    "m_FileID": 0,
+    "m_PathID": 7579402899699678620
+  },
+  "niboshi": {
+    "m_FileID": 0,
+    "m_PathID": 5606688173007125916
+  },
+  "priceText": {
+    "m_FileID": 0,
+    "m_PathID": -3364056009440150116
+  }
+}

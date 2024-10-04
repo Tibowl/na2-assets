@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8656387341255735052
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6010116851695928914
+  },
+  "m_Name": "",
+  "button": {
+    "m_FileID": 0,
+    "m_PathID": -2078015968045664500
+  },
+  "localizedName": {
+    "m_FileID": 0,
+    "m_PathID": 7869664963202807564
+  },
+  "lockIcon": {
+    "m_FileID": 0,
+    "m_PathID": 761459027792787212
+  },
+  "priceArea": {
+    "m_FileID": 0,
+    "m_PathID": -3444575581958277364
+  },
+  "price": {
+    "m_FileID": 0,
+    "m_PathID": -3130167490916550900
+  },
+  "halfPrice": {
+    "m_FileID": 0,
+    "m_PathID": 5571383313654576908
+  },
+  "ticket": {
+    "m_FileID": 0,
+    "m_PathID": 8657383422937495308
+  },
+  "line": {
+    "m_FileID": 0,
+    "m_PathID": -8710230669557991668
+  },
+  "footprint": {
+    "m_FileID": 0,
+    "m_PathID": 656789984166246156
+  }
+}

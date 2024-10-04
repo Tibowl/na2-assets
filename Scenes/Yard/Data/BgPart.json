@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8061991846852671229
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -408336555324443744
+  },
+  "m_Name": "",
+  "yardId": 3,
+  "attribute": 4,
+  "layer": 10,
+  "goodsPartName": "",
+  "spriteRenderer": {
+    "m_FileID": 0,
+    "m_PathID": 2126965577261861123
+  },
+  "collider2d": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

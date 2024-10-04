@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3927232438071844070
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3337297210484187479
+  },
+  "m_Name": "",
+  "submitButton": {
+    "m_FileID": 0,
+    "m_PathID": -1501489670449192166
+  },
+  "foods": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6645920788369253146
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8578078441075563750
+    }
+  ]
+}

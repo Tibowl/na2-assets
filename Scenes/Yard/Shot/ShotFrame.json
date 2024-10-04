@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5693573260600826885
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1038223744706943681
+  },
+  "m_Name": "",
+  "photoCamera": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "image": {
+    "m_FileID": 0,
+    "m_PathID": -8722976976043549691
+  },
+  "button": {
+    "m_FileID": 0,
+    "m_PathID": 7040012197944908805
+  },
+  "animeRightBottom": {
+    "m_FileID": 0,
+    "m_PathID": 2612485071358548997
+  },
+  "animeRightTop": {
+    "m_FileID": 0,
+    "m_PathID": 5610849744444021765
+  },
+  "animeLeftTop": {
+    "m_FileID": 0,
+    "m_PathID": 7383761006154374149
+  },
+  "animeLeftBottom": {
+    "m_FileID": 0,
+    "m_PathID": 1750741434431003653
+  },
+  "orientation": 0,
+  "xyTotal": 0.0,
+  "zoomSpeedFactor": 1.0,
+  "zoomSpeed": 0.0
+}

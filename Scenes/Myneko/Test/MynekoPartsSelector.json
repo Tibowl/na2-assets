@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1709154431588428839
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 289119906170507511
+  },
+  "m_Name": "",
+  "labelText": {
+    "m_FileID": 0,
+    "m_PathID": -8294150552540277799
+  },
+  "buttonText": {
+    "m_FileID": 0,
+    "m_PathID": -1743632943597677607
+  },
+  "button": {
+    "m_FileID": 0,
+    "m_PathID": -7887136219139533863
+  },
+  "slotType": 0
+}

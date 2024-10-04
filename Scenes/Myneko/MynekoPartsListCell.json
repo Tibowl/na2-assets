@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8566348124203947853
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4928400552716398338
+  },
+  "m_Name": "",
+  "text": {
+    "m_FileID": 0,
+    "m_PathID": 9164672257852008627
+  },
+  "textEvent": {
+    "m_FileID": 0,
+    "m_PathID": -6002485040407156557
+  },
+  "settingMark": {
+    "m_FileID": 0,
+    "m_PathID": -4596897702247438157
+  },
+  "button": {
+    "m_FileID": 0,
+    "m_PathID": 3699549901692299443
+  },
+  "partsImageRoot": {
+    "m_FileID": 0,
+    "m_PathID": 1989951072709077171
+  }
+}

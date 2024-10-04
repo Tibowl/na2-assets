@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -440436845826799650
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 968243705772394184
+  },
+  "m_Name": "",
+  "photoImage": {
+    "m_FileID": 0,
+    "m_PathID": 6534407531984127966
+  },
+  "date": {
+    "m_FileID": 0,
+    "m_PathID": -429899241203169314
+  },
+  "localizeDate": {
+    "m_FileID": 0,
+    "m_PathID": 5320668217751439326
+  },
+  "frame": {
+    "m_FileID": 0,
+    "m_PathID": -5300752130317023266
+  },
+  "bestShotOff": {
+    "m_FileID": 0,
+    "m_PathID": 5851929454551369694
+  },
+  "bestShotOn": {
+    "m_FileID": 0,
+    "m_PathID": 5510537665266124766
+  },
+  "deleteButton": {
+    "m_FileID": 0,
+    "m_PathID": -8319706361826900002
+  },
+  "labelButton": {
+    "m_FileID": 0,
+    "m_PathID": 4163347882629138398
+  },
+  "moveButton": {
+    "m_FileID": 0,
+    "m_PathID": -871173107947862050
+  },
+  "shareButton": {
+    "m_FileID": 0,
+    "m_PathID": -3854985672166078498
+  },
+  "bestShotButton": {
+    "m_FileID": 0,
+    "m_PathID": 4316130948224190430
+  }
+}

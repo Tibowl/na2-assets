@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2824223815148117037
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7015261742289300809
+  },
+  "m_Name": "",
+  "cam": {
+    "m_FileID": 0,
+    "m_PathID": 3129008562125398995
+  },
+  "canvas": {
+    "m_FileID": 0,
+    "m_PathID": -9112873286394911789
+  }
+}

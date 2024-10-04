@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6244756764095116353
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6184779487177378083
+  },
+  "m_Name": "",
+  "panel": {
+    "m_FileID": 0,
+    "m_PathID": -4197570938680871871
+  },
+  "closeButton": {
+    "m_FileID": 0,
+    "m_PathID": 8487117128553624641
+  },
+  "goldShopButton": {
+    "m_FileID": 0,
+    "m_PathID": 2594586058883560513
+  },
+  "pageView": {
+    "m_FileID": 0,
+    "m_PathID": 774126201532216385
+  }
+}

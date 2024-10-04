@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2680745340094409334
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8649120072279839942
+  },
+  "m_Name": "",
+  "silverButton": {
+    "m_FileID": 0,
+    "m_PathID": 5821439478257784202
+  },
+  "goldButton": {
+    "m_FileID": 0,
+    "m_PathID": -6205585098049088118
+  },
+  "silverMark": {
+    "m_FileID": 0,
+    "m_PathID": 8940357128681723274
+  },
+  "goldMark": {
+    "m_FileID": 0,
+    "m_PathID": 1519443988866504074
+  },
+  "silverText": {
+    "m_FileID": 0,
+    "m_PathID": -4737436622951377526
+  },
+  "goldText": {
+    "m_FileID": 0,
+    "m_PathID": 5465599248868021642
+  }
+}

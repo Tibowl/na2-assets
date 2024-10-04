@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6300998486391570473
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4994009891972667918
+  },
+  "m_Name": "",
+  "image": {
+    "m_FileID": 0,
+    "m_PathID": -1025900484621549609
+  },
+  "button": {
+    "m_FileID": 0,
+    "m_PathID": 6203170261102772183
+  },
+  "text": {
+    "m_FileID": 0,
+    "m_PathID": -2198607738511802409
+  },
+  "okimonoImage": {
+    "m_FileID": 0,
+    "m_PathID": -7338369260516261929
+  }
+}

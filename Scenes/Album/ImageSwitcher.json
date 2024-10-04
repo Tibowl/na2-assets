@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8851031671190845474
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6554807750990351623
+  },
+  "m_Name": "",
+  "androidSprite": {
+    "m_FileID": 0,
+    "m_PathID": -253934472480784150
+  },
+  "iOSSprite": {
+    "m_FileID": 0,
+    "m_PathID": 5858644763940475355
+  },
+  "change": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": -8436538424374130722
+          },
+          "m_TargetAssemblyTypeName": "UnityEngine.UI.Image, UnityEngine.UI",
+          "m_MethodName": "set_sprite",
+          "m_Mode": 0,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "UnityEngine.Object, UnityEngine",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 2
+        }
+      ]
+    }
+  }
+}

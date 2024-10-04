@@ -1,0 +1,14 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1102580530658509119
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5720998391686511016
+  },
+  "m_Name": "",
+  "currentYardId": 0,
+  "currentWeather": 0
+}

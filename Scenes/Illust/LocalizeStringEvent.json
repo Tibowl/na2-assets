@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5027810388731024308
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 562846096782619484
+  },
+  "m_Name": "",
+  "m_StringReference": {
+    "m_TableReference": {
+      "m_TableCollectionName": "GUID:c4a183bddc1c0a44aa06cddea63bce34"
+    },
+    "m_TableEntryReference": {
+      "m_KeyId": 0,
+      "m_Key": ""
+    },
+    "m_FallbackState": 0,
+    "m_WaitForCompletion": 0,
+    "m_LocalVariables": []
+  },
+  "m_FormatArguments": [],
+  "m_UpdateString": {
+    "m_PersistentCalls": {
+      "m_Calls": [
+        {
+          "m_Target": {
+            "m_FileID": 0,
+            "m_PathID": -8532883133366784948
+          },
+          "m_TargetAssemblyTypeName": "UnityEngine.UI.Text, UnityEngine.UI",
+          "m_MethodName": "set_text",
+          "m_Mode": 0,
+          "m_Arguments": {
+            "m_ObjectArgument": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_ObjectArgumentAssemblyTypeName": "",
+            "m_IntArgument": 0,
+            "m_FloatArgument": 0.0,
+            "m_StringArgument": "",
+            "m_BoolArgument": 0
+          },
+          "m_CallState": 1
+        }
+      ]
+    }
+  },
+  "references": {
+    "version": 2,
+    "RefIds": []
+  }
+}

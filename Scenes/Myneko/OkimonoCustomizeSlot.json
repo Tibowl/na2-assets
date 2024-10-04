@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8267593637522457059
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5758400835130516615
+  },
+  "m_Name": "",
+  "slotId": 1,
+  "slotType": 1,
+  "button": {
+    "m_FileID": 0,
+    "m_PathID": 1103372551662255645
+  },
+  "plusImage": {
+    "m_FileID": 0,
+    "m_PathID": 8094795346577178141
+  },
+  "partImageRoot": {
+    "m_FileID": 0,
+    "m_PathID": -4092918628533486051
+  }
+}
