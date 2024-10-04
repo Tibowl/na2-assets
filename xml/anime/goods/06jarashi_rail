@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animation image="C:\Users\katsuta\Desktop\poject sorce\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\06jarashi_rail.png" version="6">
+    <Images>
+        <Image path="C:\Users\katsuta\Desktop\poject sorce\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\06jarashi_rail.png" />
+    </Images>
+    <Modules>
+        <Module h="228" w="295" x="0" y="192" id="0" />
+        <Module h="26" w="19" x="401" y="394" id="0" />
+        <Module h="47" w="70" x="6" y="9" id="0" />
+        <Module h="49" w="64" x="79" y="8" id="0" />
+        <Module h="42" w="60" x="228" y="13" id="0" />
+        <Module h="44" w="69" x="8" y="62" id="0" />
+        <Module h="48" w="68" x="81" y="61" id="0" />
+        <Module h="45" w="68" x="154" y="63" id="0" />
+        <Module h="49" w="68" x="231" y="61" id="0" />
+        <Module h="66" w="72" x="8" y="111" id="0" />
+        <Module h="63" w="67" x="84" y="112" id="0" />
+        <Module h="62" w="68" x="157" y="114" id="0" />
+        <Module h="63" w="69" x="234" y="113" id="0" />
+        <Module h="46" w="87" x="313" y="13" id="0" />
+        <Module h="45" w="86" x="314" y="65" id="0" />
+        <Module h="47" w="86" x="313" y="116" id="0" />
+        <Module h="44" w="86" x="313" y="177" id="0" />
+        <Module h="45" w="86" x="314" y="228" id="0" />
+        <Module h="25" w="68" x="156" y="114" id="0" />
+        <Module h="58" w="75" x="319" y="298" id="0" />
+    </Modules>
+    <Frames>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="54" cy="42" name="">
+            <Sprite m00="1" m01="0" m02="-138" m10="0" m11="1" m12="-75" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="6" m10="0" m11="1" m12="45" module_id="9" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-93" m10="0" m11="1" m12="73" module_id="13" image_id="0" />
+            <Sprite m00="1" m01="0" m02="8" m10="0" m11="1" m12="48" module_id="18" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-10" m10="0" m11="1" m12="-6" module_id="19" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="71" m10="0" m11="1" m12="-13" module_id="1" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-138" m10="0" m11="1" m12="-75" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="6" m10="0" m11="1" m12="45" module_id="9" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-93" m10="0" m11="1" m12="73" module_id="13" image_id="0" />
+            <Sprite m00="1" m01="0" m02="8" m10="0" m11="1" m12="48" module_id="18" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-5" m10="0" m11="1" m12="-1" module_id="2" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-138" m10="0" m11="1" m12="-75" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="6" m10="0" m11="1" m12="45" module_id="9" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-93" m10="0" m11="1" m12="73" module_id="13" image_id="0" />
+            <Sprite m00="1" m01="0" m02="8" m10="0" m11="1" m12="48" module_id="18" image_id="0" />
+            <Sprite m00="1" m01="0" m02="4" m10="0" m11="1" m12="0" module_id="3" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-138" m10="0" m11="1" m12="-75" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-93" m10="0" m11="1" m12="73" module_id="13" image_id="0" />
+            <Sprite m00="1" m01="0" m02="10" m10="0" m11="1" m12="46" module_id="10" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-138" m10="0" m11="1" m12="-75" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="9" m10="0" m11="1" m12="48" module_id="11" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-93" m10="0" m11="1" m12="73" module_id="13" image_id="0" />
+            <Sprite m00="1" m01="0" m02="8" m10="0" m11="1" m12="48" module_id="18" image_id="0" />
+            <Sprite m00="1" m01="0" m02="7" m10="0" m11="1" m12="3" module_id="4" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-138" m10="0" m11="1" m12="-75" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-91" m10="0" m11="1" m12="74" module_id="14" image_id="0" />
+            <Sprite m00="1" m01="0" m02="6" m10="0" m11="1" m12="45" module_id="9" image_id="0" />
+            <Sprite m00="1" m01="0" m02="8" m10="0" m11="1" m12="48" module_id="18" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-3" m10="0" m11="1" m12="1" module_id="5" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-138" m10="0" m11="1" m12="-75" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-92" m10="0" m11="1" m12="72" module_id="15" image_id="0" />
+            <Sprite m00="1" m01="0" m02="6" m10="0" m11="1" m12="45" module_id="9" image_id="0" />
+            <Sprite m00="1" m01="0" m02="8" m10="0" m11="1" m12="48" module_id="18" image_id="0" />
+            <Sprite m00="1" m01="0" m02="0" m10="0" m11="1" m12="-3" module_id="6" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-138" m10="0" m11="1" m12="-75" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-92" m10="0" m11="1" m12="74" module_id="16" image_id="0" />
+            <Sprite m00="1" m01="0" m02="6" m10="0" m11="1" m12="45" module_id="9" image_id="0" />
+            <Sprite m00="1" m01="0" m02="8" m10="0" m11="1" m12="48" module_id="18" image_id="0" />
+            <Sprite m00="1" m01="0" m02="0" m10="0" m11="1" m12="-3" module_id="6" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-138" m10="0" m11="1" m12="-75" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-91" m10="0" m11="1" m12="73" module_id="17" image_id="0" />
+            <Sprite m00="1" m01="0" m02="6" m10="0" m11="1" m12="45" module_id="9" image_id="0" />
+            <Sprite m00="1" m01="0" m02="8" m10="0" m11="1" m12="48" module_id="18" image_id="0" />
+            <Sprite m00="1" m01="0" m02="0" m10="0" m11="1" m12="-3" module_id="6" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-138" m10="0" m11="1" m12="-75" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-91" m10="0" m11="1" m12="74" module_id="14" image_id="0" />
+            <Sprite m00="1" m01="0" m02="6" m10="0" m11="1" m12="45" module_id="9" image_id="0" />
+            <Sprite m00="1" m01="0" m02="8" m10="0" m11="1" m12="48" module_id="18" image_id="0" />
+            <Sprite m00="1" m01="0" m02="0" m10="0" m11="1" m12="-3" module_id="6" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-138" m10="0" m11="1" m12="-75" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-93" m10="0" m11="1" m12="73" module_id="13" image_id="0" />
+            <Sprite m00="1" m01="0" m02="9" m10="0" m11="1" m12="48" module_id="11" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-2" m10="0" m11="1" m12="-1" module_id="7" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-138" m10="0" m11="1" m12="-75" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-93" m10="0" m11="1" m12="73" module_id="13" image_id="0" />
+            <Sprite m00="1" m01="0" m02="8" m10="0" m11="1" m12="47" module_id="12" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-2" m10="0" m11="1" m12="-1" module_id="7" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-138" m10="0" m11="1" m12="-75" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-93" m10="0" m11="1" m12="73" module_id="13" image_id="0" />
+            <Sprite m00="1" m01="0" m02="10" m10="0" m11="1" m12="46" module_id="10" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-2" m10="0" m11="1" m12="-1" module_id="7" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-138" m10="0" m11="1" m12="-75" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="6" m10="0" m11="1" m12="45" module_id="9" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-93" m10="0" m11="1" m12="73" module_id="13" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-3" m10="0" m11="1" m12="-4" module_id="8" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="60" cr="100" ct="50" cl="-4" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-138" m10="0" m11="1" m12="-75" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="6" m10="0" m11="1" m12="45" module_id="9" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-93" m10="0" m11="1" m12="73" module_id="13" image_id="0" />
+            <Sprite m00="1" m01="0" m02="8" m10="0" m11="1" m12="48" module_id="18" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-10" m10="0" m11="1" m12="-6" module_id="19" image_id="0" />
+        </Frame>
+    </Frames>
+    <Actions>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="0" />
+            <Sequence duration="1" id="0" />
+            <Sequence duration="1" id="0" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="1" />
+            <Sequence duration="1" id="1" />
+            <Sequence duration="1" id="1" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="2" />
+            <Sequence duration="1" id="2" />
+            <Sequence duration="1" id="2" />
+            <Sequence duration="1" id="3" />
+            <Sequence duration="1" id="3" />
+            <Sequence duration="1" id="3" />
+            <Sequence duration="1" id="4" />
+            <Sequence duration="1" id="4" />
+            <Sequence duration="1" id="4" />
+            <Sequence duration="1" id="5" />
+            <Sequence duration="1" id="5" />
+            <Sequence duration="1" id="5" />
+            <Sequence duration="1" id="6" />
+            <Sequence duration="1" id="6" />
+            <Sequence duration="1" id="6" />
+            <Sequence duration="1" id="7" />
+            <Sequence duration="1" id="7" />
+            <Sequence duration="1" id="7" />
+            <Sequence duration="1" id="8" />
+            <Sequence duration="1" id="8" />
+            <Sequence duration="1" id="8" />
+            <Sequence duration="1" id="9" />
+            <Sequence duration="1" id="9" />
+            <Sequence duration="1" id="9" />
+            <Sequence duration="1" id="10" />
+            <Sequence duration="1" id="10" />
+            <Sequence duration="1" id="10" />
+            <Sequence duration="1" id="11" />
+            <Sequence duration="1" id="11" />
+            <Sequence duration="1" id="11" />
+            <Sequence duration="1" id="12" />
+            <Sequence duration="1" id="12" />
+            <Sequence duration="1" id="12" />
+            <Sequence duration="1" id="13" />
+            <Sequence duration="1" id="13" />
+            <Sequence duration="1" id="13" />
+            <Sequence duration="1" id="14" />
+            <Sequence duration="1" id="14" />
+            <Sequence duration="1" id="14" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="1" />
+            <Sequence duration="1" id="1" />
+            <Sequence duration="1" id="1" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="15" />
+        </Action>
+    </Actions>
+</Animation>

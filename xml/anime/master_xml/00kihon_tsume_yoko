@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animation image="C:\Users\vannt\Desktop\通常猫(しろねこさん)PNG150%\00kihon_tsume_yoko.png" version="6">
+    <Images>
+        <Image path="C:\Users\vannt\Desktop\通常猫(しろねこさん)PNG150%\00kihon_tsume_yoko.png" />
+    </Images>
+    <Modules>
+        <Module h="237" w="176" x="0" y="0" id="0" />
+        <Module h="222" w="176" x="177" y="14" id="0" />
+        <Module h="233" w="175" x="353" y="4" id="0" />
+        <Module h="228" w="176" x="528" y="9" id="0" />
+    </Modules>
+    <Frames>
+        <Frame ab="0" ar="0" at="0" al="0" cb="-600" cr="-600" ct="10" cl="19" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-73" m10="0" m11="1" m12="-190" module_id="2" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-73" m10="0" m11="1" m12="-189" module_id="3" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-73" m10="0" m11="1" m12="-189" module_id="0" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-73" m10="0" m11="1" m12="-188" module_id="1" image_id="0" />
+        </Frame>
+    </Frames>
+    <Actions>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="0" />
+            <Sequence duration="1" id="0" />
+            <Sequence duration="1" id="0" />
+            <Sequence duration="1" id="1" />
+            <Sequence duration="1" id="1" />
+            <Sequence duration="1" id="1" />
+            <Sequence duration="1" id="2" />
+            <Sequence duration="1" id="2" />
+            <Sequence duration="1" id="2" />
+            <Sequence duration="1" id="3" />
+            <Sequence duration="1" id="3" />
+            <Sequence duration="1" id="3" />
+        </Action>
+    </Actions>
+</Animation>

@@ -1,0 +1,61 @@
+<Animation image="C:\Users\Yamaguchi\Desktop\2016_1.9.0_&#12450;&#12503;&#12487;\03felt_dome.png" version="6">
+    <Images>
+        <Image path="C:\Users\Yamaguchi\Desktop\2016_1.9.0_&#12450;&#12503;&#12487;\03felt_dome.png" />
+    </Images>
+    <Modules>
+        <Module h="93" w="45" x="224" y="0" id="0" />
+        <Module h="97" w="122" x="274" y="3" id="0" />
+        <Module h="167" w="217" x="4" y="0" id="0" />
+        <Module h="167" w="217" x="4" y="170" id="0" />
+        <Module h="139" w="229" x="224" y="187" id="0" />
+        <Module h="81" w="220" x="224" y="103" id="0" />
+    </Modules>
+    <Frames>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-93" m10="0" m11="1" m12="-90" module_id="1" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-113" m10="0" m11="1" m12="-115" module_id="2" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-93" m10="0" m11="1" m12="-90" module_id="1" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-113" m10="0" m11="1" m12="-115" module_id="2" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="59" cr="93" ct="-14" cl="4" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-93" m10="0" m11="1" m12="-90" module_id="1" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-113" m10="0" m11="1" m12="-115" module_id="2" image_id="0" />
+        </Frame>
+    </Frames>
+    <Actions>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="0" />
+            <Sequence duration="1" id="0" />
+            <Sequence duration="1" id="0" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="1" />
+            <Sequence duration="1" id="1" />
+            <Sequence duration="1" id="1" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="2" />
+            <Sequence duration="1" id="2" />
+            <Sequence duration="1" id="2" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="3" />
+            <Sequence duration="1" id="3" />
+            <Sequence duration="1" id="3" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="4" />
+        </Action>
+    </Actions>
+</Animation>

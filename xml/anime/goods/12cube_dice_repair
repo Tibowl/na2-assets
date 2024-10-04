@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animation image="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\12cube_dice_repair.png" version="6">
+    <Images>
+        <Image path="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\12cube_dice_repair.png" />
+    </Images>
+    <Modules>
+        <Module h="242" w="275" x="7" y="5" id="0" />
+        <Module h="89" w="262" x="285" y="3" id="0" />
+        <Module h="125" w="138" x="286" y="109" id="0" />
+    </Modules>
+    <Frames>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-99" m10="0" m11="1" m12="-97" module_id="2" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-132" m10="0" m11="1" m12="-204" module_id="1" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-138" m10="0" m11="1" m12="-187" module_id="0" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="-75" cr="31" ct="-150" cl="-5" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-99" m10="0" m11="1" m12="-97" module_id="2" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-132" m10="0" m11="1" m12="-204" module_id="1" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-138" m10="0" m11="1" m12="-187" module_id="0" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="42" cr="47" ct="5" cl="5" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-99" m10="0" m11="1" m12="-97" module_id="2" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-132" m10="0" m11="1" m12="-204" module_id="1" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-138" m10="0" m11="1" m12="-187" module_id="0" image_id="0" />
+        </Frame>
+    </Frames>
+    <Actions>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="0" />
+            <Sequence duration="1" id="0" />
+            <Sequence duration="1" id="0" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="1" />
+            <Sequence duration="1" id="1" />
+            <Sequence duration="1" id="1" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="0" />
+            <Sequence duration="1" id="0" />
+            <Sequence duration="1" id="0" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="1" />
+            <Sequence duration="1" id="1" />
+            <Sequence duration="1" id="1" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="3" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="2" />
+        </Action>
+    </Actions>
+</Animation>
