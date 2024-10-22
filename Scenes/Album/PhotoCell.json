@@ -43,8 +43,11 @@
     "m_FileID": 0,
     "m_PathID": -8511090226055663559
   },
+  "<index>k__BackingField": 0,
   "button": {
     "m_FileID": 0,
     "m_PathID": -1347566046316646343
-  }
+  },
+  "state": 0,
+  "loadingId": 0
 }
