@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8760233971067691382
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5961457436808396849
+  },
+  "m_Name": "",
+  "window": {
+    "m_FileID": 0,
+    "m_PathID": 7541056639522087286
+  },
+  "rankText": {
+    "m_FileID": 0,
+    "m_PathID": 5212212994321588598
+  },
+  "catNameText": {
+    "m_FileID": 0,
+    "m_PathID": -844707189958598282
+  },
+  "catNameLocalize": {
+    "m_FileID": 0,
+    "m_PathID": -2246256629647892106
+  },
+  "goodsNameText": {
+    "m_FileID": 0,
+    "m_PathID": -1174314283601976970
+  },
+  "iconImage": {
+    "m_FileID": 0,
+    "m_PathID": 4971197075341353334
+  }
+}
