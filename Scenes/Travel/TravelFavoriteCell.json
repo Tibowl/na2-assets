@@ -9,6 +9,10 @@
     "m_PathID": 492425781410064418
   },
   "m_Name": "",
+  "window": {
+    "m_FileID": 0,
+    "m_PathID": 6810306886729404547
+  },
   "playerNameLocalize": {
     "m_FileID": 0,
     "m_PathID": 0
@@ -34,7 +38,7 @@
     "m_PathID": 2993678204679557251
   },
   "idText": {
-    "m_FileID": 14,
-    "m_PathID": 7526466546154747440
+    "m_FileID": 0,
+    "m_PathID": 7019482548996669454
   }
 }
