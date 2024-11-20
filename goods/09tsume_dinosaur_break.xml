@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\09tsume_dinosaur_break.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\09tsume_dinosaur_break.png" version="6">
     <Images>
-        <Image path="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\09tsume_dinosaur_break.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\09tsume_dinosaur_break.png" />
     </Images>
     <Modules>
         <Module h="529" w="455" x="3" y="5" id="0" />
@@ -9,19 +9,16 @@
     </Modules>
     <Frames>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-196" m10="0" m11="1" m12="-374" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-211" m10="0" m11="1" m12="-379" module_id="0" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
             <Sprite m00="1" m01="0" m02="-15" m10="0" m11="1" m12="-49" module_id="1" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="-101" cr="95" ct="-200" cl="61" cx="0" cy="0" name="xy_ue">
-            <Sprite m00="1" m01="0" m02="-196" m10="0" m11="1" m12="-374" module_id="0" image_id="0" />
+        <Frame ab="0" ar="0" at="0" al="0" cb="-170" cr="92" ct="-209" cl="55" cx="0" cy="0" name="xy_ue">
+            <Sprite m00="1" m01="0" m02="-211" m10="0" m11="1" m12="-379" module_id="0" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="50" cr="-10" ct="18" cl="-88" cx="0" cy="0" name="xy_sita">
-            <Sprite m00="1" m01="0" m02="-196" m10="0" m11="1" m12="-374" module_id="0" image_id="0" />
-        </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-196" m10="0" m11="1" m12="-374" module_id="0" image_id="0" />
+        <Frame ab="0" ar="0" at="0" al="0" cb="50" cr="-56" ct="18" cl="-106" cx="0" cy="0" name="xy_sita">
+            <Sprite m00="1" m01="0" m02="-211" m10="0" m11="1" m12="-379" module_id="0" image_id="0" />
         </Frame>
     </Frames>
     <Actions>
