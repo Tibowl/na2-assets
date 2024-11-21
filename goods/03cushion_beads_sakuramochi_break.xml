@@ -37,15 +37,15 @@
         </Action>
         <Action name="">
             <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
-            <Sequence duration="1" id="1" />
-            <Sequence duration="1" id="1" />
-            <Sequence duration="1" id="1" />
+            <Sequence duration="1" id="2" />
+            <Sequence duration="1" id="2" />
+            <Sequence duration="1" id="2" />
         </Action>
         <Action name="">
             <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
-            <Sequence duration="1" id="2" />
-            <Sequence duration="1" id="2" />
-            <Sequence duration="1" id="2" />
+            <Sequence duration="1" id="1" />
+            <Sequence duration="1" id="1" />
+            <Sequence duration="1" id="1" />
         </Action>
         <Action name="">
             <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
