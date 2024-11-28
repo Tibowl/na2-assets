@@ -10,16 +10,16 @@
     </Modules>
     <Frames>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-147" m10="0" m11="1" m12="-138" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-147" m10="0" m11="1" m12="-158" module_id="0" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-168" m10="0" m11="1" m12="-69" module_id="1" image_id="0" />
-            <Sprite m00="1" m01="0" m02="42" m10="0" m11="1" m12="-67" module_id="2" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-168" m10="0" m11="1" m12="-89" module_id="1" image_id="0" />
+            <Sprite m00="1" m01="0" m02="42" m10="0" m11="1" m12="-87" module_id="2" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="12" cr="10" ct="-8" cl="-11" cx="0" cy="0" name="xy">
-            <Sprite m00="1" m01="0" m02="-147" m10="0" m11="1" m12="-138" module_id="0" image_id="0" />
-            <Sprite m00="1" m01="0" m02="-168" m10="0" m11="1" m12="-69" module_id="1" image_id="0" />
-            <Sprite m00="1" m01="0" m02="42" m10="0" m11="1" m12="-67" module_id="2" image_id="0" />
+        <Frame ab="0" ar="0" at="0" al="0" cb="12" cr="10" ct="-25" cl="-11" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-147" m10="0" m11="1" m12="-158" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-168" m10="0" m11="1" m12="-89" module_id="1" image_id="0" />
+            <Sprite m00="1" m01="0" m02="42" m10="0" m11="1" m12="-87" module_id="2" image_id="0" />
         </Frame>
     </Frames>
     <Actions>
