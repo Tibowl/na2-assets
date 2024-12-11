@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\Users\katsuta\Desktop\neko2用アニメPSD\special_png\sp09_nabe.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\neko\special\png\sp09_nabe.png" version="6">
     <Images>
-        <Image path="C:\Users\katsuta\Desktop\neko2用アニメPSD\special_png\sp09_nabe.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\neko\special\png\sp09_nabe.png" />
     </Images>
     <Modules>
         <Module h="189" w="230" x="0" y="0" id="0" />
-        <Module h="104" w="223" x="1" y="190" id="0" />
+        <Module h="108" w="224" x="0" y="190" id="0" />
         <Module h="214" w="223" x="231" y="1" id="0" />
     </Modules>
     <Frames>
-        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-231" m10="0" m11="1" m12="-168" module_id="0" image_id="0" />
-            <Sprite m00="1" m01="0" m02="-134" m10="0" m11="1" m12="-7" module_id="1" image_id="0" />
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="71" cy="20" name="">
+            <Sprite m00="1" m01="0" m02="-185" m10="0" m11="1" m12="-211" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-89" m10="0" m11="1" m12="-53" module_id="1" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
             <Sprite m00="1" m01="0" m02="-95" m10="0" m11="1" m12="-159" module_id="0" image_id="0" />
