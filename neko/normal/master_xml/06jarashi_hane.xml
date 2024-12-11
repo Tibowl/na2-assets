@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\Users\vannt\Desktop\通常猫(しろねこさん)PNG150%\06jarashi_hane.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\neko\normal\00_sironeko_san\06jarashi_hane.png" version="6">
     <Images>
-        <Image path="C:\Users\vannt\Desktop\通常猫(しろねこさん)PNG150%\06jarashi_hane.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\neko\normal\00_sironeko_san\06jarashi_hane.png" />
     </Images>
     <Modules>
         <Module h="169" w="236" x="0" y="1" id="0" />
@@ -10,13 +10,13 @@
     </Modules>
     <Frames>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-90" m10="0" m11="1" m12="-136" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-90" m10="0" m11="1" m12="-134" module_id="0" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-90" m10="0" m11="1" m12="-137" module_id="1" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-90" m10="0" m11="1" m12="-135" module_id="1" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-91" m10="0" m11="1" m12="-136" module_id="2" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-89" m10="0" m11="1" m12="-134" module_id="2" image_id="0" />
         </Frame>
     </Frames>
     <Actions>

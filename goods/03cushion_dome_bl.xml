@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\03cushion_dome_bl.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\03cushion_dome_bl.png" version="6">
     <Images>
-        <Image path="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\03cushion_dome_bl.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\03cushion_dome_bl.png" />
     </Images>
     <Modules>
         <Module h="196" w="263" x="0" y="18" id="0" />
@@ -14,7 +14,7 @@
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
             <Sprite m00="1" m01="0" m02="-119" m10="0" m11="1" m12="-176" module_id="0" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="17" cr="84" ct="-17" cl="12" cx="0" cy="0" name="xy">
+        <Frame ab="0" ar="0" at="0" al="0" cb="17" cr="84" ct="-19" cl="12" cx="0" cy="0" name="xy">
             <Sprite m00="1" m01="0" m02="-112" m10="0" m11="1" m12="-160" module_id="1" image_id="0" />
         </Frame>
     </Frames>
