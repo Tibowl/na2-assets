@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\Users\katsuta\Desktop\neko2用アニメPSD\PNG\special_png\sp16_yuki.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\neko\special\png\sp16_yuki.png" version="6">
     <Images>
-        <Image path="C:\Users\katsuta\Desktop\neko2用アニメPSD\PNG\special_png\sp16_yuki.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\neko\special\png\sp16_yuki.png" />
     </Images>
     <Modules>
         <Module h="139" w="170" x="0" y="0" id="0" />
-        <Module h="168" w="191" x="170" y="0" id="0" />
+        <Module h="168" w="190" x="171" y="0" id="0" />
     </Modules>
     <Frames>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
