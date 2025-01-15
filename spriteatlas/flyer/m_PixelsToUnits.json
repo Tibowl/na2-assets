@@ -43,6 +43,13 @@
   "07": 100,
   "08": 100,
   "09": 100,
+  "flyer_101": 100,
+  "flyer_102": 100,
+  "flyer_103": 100,
+  "flyer_104": 100,
+  "flyer_105": 100,
+  "flyer_106": 100,
+  "flyer_107": 100,
   "neko_flyer_00": 100,
   "neko_flyer_01": 100,
   "neko_flyer_02": 100,
@@ -174,10 +181,5 @@
   "neko_ytub_40": 100,
   "neko_ytub_41": 100,
   "neko_ytub_42": 100,
-  "neko_ytub_43": 100,
-  "z_ex_neko_flyer_01": 100,
-  "z_ex_neko_flyer_02": 100,
-  "z_ex_neko_flyer_03": 100,
-  "z_ex_neko_flyer_04": 100,
-  "z_ex_neko_flyer_05": 100
+  "neko_ytub_43": 100
 }
