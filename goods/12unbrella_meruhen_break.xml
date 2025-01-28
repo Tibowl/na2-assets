@@ -33,7 +33,7 @@
             <Sprite m00="1" m01="0" m02="-118" m10="0" m11="1" m12="-158" module_id="1" image_id="0" />
             <Sprite m00="1" m01="0" m02="-315" m10="0" m11="1" m12="-375" module_id="0" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="-280" cr="-50" ct="-300" cl="-80" cx="0" cy="0" name="xy">
+        <Frame ab="0" ar="0" at="0" al="0" cb="102" cr="-158" ct="79" cl="-188" cx="0" cy="0" name="xy">
             <Sprite m00="1" m01="0" m02="-292" m10="0" m11="1" m12="11" module_id="2" image_id="0" />
             <Sprite m00="1" m01="0" m02="-118" m10="0" m11="1" m12="-158" module_id="1" image_id="0" />
             <Sprite m00="1" m01="0" m02="-315" m10="0" m11="1" m12="-375" module_id="0" image_id="0" />
