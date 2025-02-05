@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\Users\vannt\Desktop\通常猫(しろねこさん)PNG150%\12hammock.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\neko\normal\00_sironeko_san\12hammock.png" version="6">
     <Images>
-        <Image path="C:\Users\vannt\Desktop\通常猫(しろねこさん)PNG150%\12hammock.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\neko\normal\00_sironeko_san\12hammock.png" />
     </Images>
     <Modules>
         <Module h="175" w="179" x="0" y="0" id="0" />
@@ -13,10 +13,10 @@
             <Sprite m00="1" m01="0" m02="-85" m10="0" m11="1" m12="-172" module_id="0" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-95" m10="0" m11="1" m12="-112" module_id="1" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-98" m10="0" m11="1" m12="-111" module_id="1" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-83" m10="0" m11="1" m12="-122" module_id="2" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-85" m10="0" m11="1" m12="-122" module_id="2" image_id="0" />
         </Frame>
     </Frames>
     <Actions>

@@ -18,6 +18,9 @@
             <Sprite m00="1" m01="0" m02="-133" m10="0" m11="1" m12="-261" module_id="0" image_id="0" />
             <Sprite m00="1" m01="0" m02="-132" m10="0" m11="1" m12="-240" module_id="1" image_id="0" />
         </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="-200" cr="50" ct="-245" cl="-3" cx="0" cy="0" name="xy_rareneko">
+            <Sprite m00="1" m01="0" m02="-133" m10="0" m11="1" m12="-261" module_id="0" image_id="0" />
+        </Frame>
     </Frames>
     <Actions>
         <Action name="">
@@ -47,6 +50,10 @@
         <Action name="">
             <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
             <Sequence duration="1" id="2" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="3" />
         </Action>
     </Actions>
 </Animation>
