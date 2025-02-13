@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\03cushion_tart_chocolate_break.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\03cushion_tart_chocolate_break.png" version="6">
     <Images>
-        <Image path="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\03cushion_tart_chocolate_break.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\03cushion_tart_chocolate_break.png" />
     </Images>
     <Modules>
         <Module h="87" w="267" x="7" y="0" id="0" />
@@ -9,15 +9,14 @@
     </Modules>
     <Frames>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="13" cy="-52" name="">
-            <Sprite m00="1" m01="0" m02="-130" m10="0" m11="1" m12="-107" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-134" m10="0" m11="1" m12="-108" module_id="0" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-137" m10="0" m11="1" m12="-73" module_id="1" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-140" m10="0" m11="1" m12="-74" module_id="1" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="-4" cr="28" ct="-43" cl="5" cx="0" cy="0" name="xy">
-            <Sprite m00="1" m01="0" m02="-130" m10="0" m11="1" m12="-104" module_id="0" image_id="0" />
-            <Sprite m00="1" m01="0" m02="-130" m10="0" m11="1" m12="-107" module_id="0" image_id="0" />
-            <Sprite m00="1" m01="0" m02="-137" m10="0" m11="1" m12="-73" module_id="1" image_id="0" />
+        <Frame ab="0" ar="0" at="0" al="0" cb="-4" cr="28" ct="-44" cl="6" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-134" m10="0" m11="1" m12="-108" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-140" m10="0" m11="1" m12="-74" module_id="1" image_id="0" />
         </Frame>
     </Frames>
     <Actions>
