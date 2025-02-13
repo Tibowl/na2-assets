@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\03cushion_kinoko_3_break.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\03cushion_kinoko_3_break.png" version="6">
     <Images>
-        <Image path="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\03cushion_kinoko_3_break.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\03cushion_kinoko_3_break.png" />
     </Images>
     <Modules>
         <Module h="19" w="37" x="100" y="176" id="0" />
-        <Module h="168" w="221" x="6" y="2" id="0" />
+        <Module h="168" w="223" x="6" y="2" id="0" />
         <Module h="144" w="232" x="1" y="173" id="0" />
     </Modules>
     <Frames>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-113" m10="0" m11="1" m12="-126" module_id="1" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-110" m10="0" m11="1" m12="-125" module_id="1" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
             <Sprite m00="1" m01="0" m02="-18" m10="0" m11="1" m12="-10" module_id="0" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-119" m10="0" m11="1" m12="-98" module_id="2" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-117" m10="0" m11="1" m12="-98" module_id="2" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="-16" cr="34" ct="-64" cl="2" cx="0" cy="0" name="xy">
-            <Sprite m00="1" m01="0" m02="-113" m10="0" m11="1" m12="-126" module_id="1" image_id="0" />
+        <Frame ab="0" ar="0" at="0" al="0" cb="-16" cr="34" ct="-64" cl="0" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-117" m10="0" m11="1" m12="-98" module_id="2" image_id="0" />
         </Frame>
     </Frames>
     <Actions>
