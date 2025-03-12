@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\12cube_tree.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\12cube_tree.png" version="6">
     <Images>
-        <Image path="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\12cube_tree.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\12cube_tree.png" />
     </Images>
     <Modules>
         <Module h="220" w="280" x="8" y="10" id="0" />
@@ -10,21 +10,21 @@
     </Modules>
     <Frames>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-95" m10="0" m11="1" m12="-136" module_id="2" image_id="0" />
-            <Sprite m00="1" m01="0" m02="-113" m10="0" m11="1" m12="-233" module_id="1" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-103" m10="0" m11="1" m12="-133" module_id="2" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-121" m10="0" m11="1" m12="-229" module_id="1" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-137" m10="0" m11="1" m12="-180" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-145" m10="0" m11="1" m12="-176" module_id="0" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="-100" cr="18" ct="-205" cl="5" cx="0" cy="0" name="xy">
-            <Sprite m00="1" m01="0" m02="-95" m10="0" m11="1" m12="-136" module_id="2" image_id="0" />
-            <Sprite m00="1" m01="0" m02="-113" m10="0" m11="1" m12="-233" module_id="1" image_id="0" />
-            <Sprite m00="1" m01="0" m02="-137" m10="0" m11="1" m12="-180" module_id="0" image_id="0" />
+        <Frame ab="0" ar="0" at="0" al="0" cb="-100" cr="18" ct="-203" cl="-3" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-103" m10="0" m11="1" m12="-133" module_id="2" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-121" m10="0" m11="1" m12="-229" module_id="1" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-145" m10="0" m11="1" m12="-176" module_id="0" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="10" cr="35" ct="-33" cl="13" cx="0" cy="0" name="xy">
-            <Sprite m00="1" m01="0" m02="-95" m10="0" m11="1" m12="-136" module_id="2" image_id="0" />
-            <Sprite m00="1" m01="0" m02="-113" m10="0" m11="1" m12="-233" module_id="1" image_id="0" />
-            <Sprite m00="1" m01="0" m02="-137" m10="0" m11="1" m12="-180" module_id="0" image_id="0" />
+        <Frame ab="0" ar="0" at="0" al="0" cb="10" cr="35" ct="-30" cl="7" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-103" m10="0" m11="1" m12="-133" module_id="2" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-121" m10="0" m11="1" m12="-229" module_id="1" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-145" m10="0" m11="1" m12="-176" module_id="0" image_id="0" />
         </Frame>
     </Frames>
     <Actions>
