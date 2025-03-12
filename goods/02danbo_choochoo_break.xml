@@ -11,26 +11,26 @@
     </Modules>
     <Frames>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-151" m10="0" m11="1" m12="-276" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-167" m10="0" m11="1" m12="-277" module_id="0" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
             <Sprite m00="1" m01="0" m02="-23" m10="0" m11="1" m12="-21" module_id="3" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="48" cy="-28" name="">
-            <Sprite m00="1" m01="0" m02="-116" m10="0" m11="1" m12="-13" module_id="1" image_id="0" />
-            <Sprite m00="1" m01="0" m02="18" m10="0" m11="1" m12="-174" module_id="2" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-132" m10="0" m11="1" m12="-14" module_id="1" image_id="0" />
+            <Sprite m00="1" m01="0" m02="2" m10="0" m11="1" m12="-175" module_id="2" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="89" cr="16" ct="36" cl="-51" cx="0" cy="0" name="xy">
-            <Sprite m00="1" m01="0" m02="-151" m10="0" m11="1" m12="-276" module_id="0" image_id="0" />
+        <Frame ab="0" ar="0" at="0" al="0" cb="89" cr="16" ct="35" cl="-65" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-167" m10="0" m11="1" m12="-277" module_id="0" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="-141" cr="191" ct="-230" cl="86" cx="0" cy="0" name="xy">
-            <Sprite m00="1" m01="0" m02="-151" m10="0" m11="1" m12="-276" module_id="0" image_id="0" />
+        <Frame ab="0" ar="0" at="0" al="0" cb="-141" cr="191" ct="-233" cl="71" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-167" m10="0" m11="1" m12="-277" module_id="0" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="-128" cr="38" ct="-180" cl="-21" cx="0" cy="0" name="xy">
-            <Sprite m00="1" m01="0" m02="-151" m10="0" m11="1" m12="-276" module_id="0" image_id="0" />
+        <Frame ab="0" ar="0" at="0" al="0" cb="-128" cr="38" ct="-182" cl="-35" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-167" m10="0" m11="1" m12="-277" module_id="0" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="-61" cr="125" ct="-86" cl="64" cx="0" cy="0" name="xy">
-            <Sprite m00="1" m01="0" m02="-151" m10="0" m11="1" m12="-276" module_id="0" image_id="0" />
+        <Frame ab="0" ar="0" at="0" al="0" cb="-61" cr="125" ct="-87" cl="48" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-167" m10="0" m11="1" m12="-277" module_id="0" image_id="0" />
         </Frame>
     </Frames>
     <Actions>
