@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\12hammock_kutusita_repair.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\12hammock_kutusita_repair.png" version="6">
     <Images>
-        <Image path="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\12hammock_kutusita_repair.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\12hammock_kutusita_repair.png" />
     </Images>
     <Modules>
         <Module h="169" w="177" x="1" y="9" id="0" />
@@ -30,7 +30,8 @@
             <Sprite m00="1" m01="0" m02="-85" m10="0" m11="1" m12="-138" module_id="0" image_id="0" />
             <Sprite m00="1" m01="0" m02="-20" m10="0" m11="1" m12="-306" module_id="1" image_id="0" />
             <Sprite m00="1" m01="0" m02="-57" m10="0" m11="1" m12="-251" module_id="4" image_id="0" />
-            <Sprite m00="1" m01="0" m02="-62" m10="0" m11="1" m12="-163" module_id="5" image_id="0" />        </Frame>
+            <Sprite m00="1" m01="0" m02="-62" m10="0" m11="1" m12="-163" module_id="5" image_id="0" />
+        </Frame>
     </Frames>
     <Actions>
         <Action name="">
