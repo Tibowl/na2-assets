@@ -1,6 +1,7 @@
 {
   "all_clear": 100,
   "bulk_buy": 100,
+  "button_goods_buy": 100,
   "button_goods_delete": 100,
   "button_goods_repair": 100,
   "button_jarashi_on": 100,
