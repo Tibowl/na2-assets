@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\neko\special\png\sp29_omaturi.png" version="6">
+    <Images>
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\neko\special\png\sp29_omaturi.png" />
+    </Images>
+    <Modules>
+        <Module h="315" w="283" x="0" y="0" id="0" />
+        <Module h="226" w="287" x="284" y="89" id="0" />
+    </Modules>
+    <Frames>
+        <Frame ab="0" ar="0" at="0" al="0" cb="33" cr="70" ct="-180" cl="-81" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-172" m10="0" m11="1" m12="-280" module_id="0" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="35" cr="170" ct="-183" cl="25" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-97" m10="0" m11="1" m12="-182" module_id="1" image_id="0" />
+        </Frame>
+    </Frames>
+    <Actions>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="0" />
+            <Sequence duration="1" id="0" />
+            <Sequence duration="1" id="0" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="1" />
+            <Sequence duration="1" id="1" />
+            <Sequence duration="1" id="1" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="0" />
+            <Sequence duration="1" id="0" />
+            <Sequence duration="1" id="0" />
+        </Action>
+    </Actions>
+</Animation>
