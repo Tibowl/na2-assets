@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\03felt_dome_strawberry_repair.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\03cushion\03felt_dome_strawberry_repair.png" version="6">
     <Images>
-        <Image path="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\03felt_dome_strawberry_repair.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\03cushion\03felt_dome_strawberry_repair.png" />
     </Images>
     <Modules>
         <Module h="60" w="30" x="233" y="0" id="0" />
-        <Module h="98" w="125" x="285" y="3" id="0" />
+        <Module h="98" w="125" x="279" y="14" id="0" />
         <Module h="187" w="217" x="4" y="3" id="0" />
-        <Module h="188" w="217" x="4" y="192" id="0" />
-        <Module h="149" w="228" x="227" y="233" id="0" />
-        <Module h="86" w="218" x="236" y="107" id="0" />
+        <Module h="187" w="217" x="5" y="193" id="0" />
+        <Module h="149" w="229" x="225" y="233" id="0" />
+        <Module h="86" w="218" x="230" y="107" id="0" />
     </Modules>
     <Frames>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
