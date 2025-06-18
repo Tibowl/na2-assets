@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\03cushion_sunoko_light.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\03cushion\03cushion_sunoko_light.png" version="6">
     <Images>
-        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\03cushion_sunoko_light.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\03cushion\03cushion_sunoko_light.png" />
     </Images>
     <Modules>
         <Module h="145" w="332" x="1" y="2" id="0" />
@@ -9,13 +9,13 @@
     </Modules>
     <Frames>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-168" m10="0" m11="1" m12="-83" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-172" m10="0" m11="1" m12="-82" module_id="0" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
             <Sprite m00="1" m01="0" m02="-8" m10="0" m11="1" m12="-8" module_id="1" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="19" cr="11" ct="-10" cl="-13" cx="0" cy="0" name="xy">
-            <Sprite m00="1" m01="0" m02="-168" m10="0" m11="1" m12="-83" module_id="0" image_id="0" />
+        <Frame ab="0" ar="0" at="0" al="0" cb="19" cr="11" ct="-6" cl="-18" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-172" m10="0" m11="1" m12="-82" module_id="0" image_id="0" />
         </Frame>
     </Frames>
     <Actions>
