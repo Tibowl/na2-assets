@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\06jarashi_kerigurumi_snm.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\06jarashi\06jarashi_kerigurumi_snm.png" version="6">
     <Images>
-        <Image path="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\06jarashi_kerigurumi_snm.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\06jarashi\06jarashi_kerigurumi_snm.png" />
     </Images>
     <Modules>
         <Module h="62" w="166" x="38" y="9" id="0" />
@@ -9,13 +9,13 @@
     </Modules>
     <Frames>
         <Frame ab="0" ar="0" at="0" al="0" cb="-600" cr="-600" ct="-8" cl="7" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-75" m10="0" m11="1" m12="-37" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-65" m10="0" m11="1" m12="-31" module_id="0" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
             <Sprite m00="1" m01="0" m02="-7" m10="0" m11="1" m12="-5" module_id="1" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="20" cr="21" ct="-32" cl="-58" cx="0" cy="0" name="xy">
-            <Sprite m00="1" m01="0" m02="-75" m10="0" m11="1" m12="-37" module_id="0" image_id="0" />
+        <Frame ab="0" ar="0" at="0" al="0" cb="20" cr="21" ct="-27" cl="-44" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-65" m10="0" m11="1" m12="-31" module_id="0" image_id="0" />
         </Frame>
     </Frames>
     <Actions>
