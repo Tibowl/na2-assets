@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\Users\katsuta\Desktop\neko2用アニメPSD\PNG\special_png\sp20_sinobu.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\neko\special\png\sp20_sinobu.png" version="6">
     <Images>
-        <Image path="C:\Users\katsuta\Desktop\neko2用アニメPSD\PNG\special_png\sp20_sinobu.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\neko\special\png\sp20_sinobu.png" />
     </Images>
     <Modules>
         <Module h="39" w="73" x="193" y="164" id="0" />
@@ -62,6 +62,10 @@
             <Sequence duration="1" id="5" />
             <Sequence duration="1" id="5" />
             <Sequence duration="1" id="5" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="2" />
         </Action>
     </Actions>
 </Animation>
