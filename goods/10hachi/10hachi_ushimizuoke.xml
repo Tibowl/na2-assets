@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\10hachi_ushimizuoke.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\10hachi\10hachi_ushimizuoke.png" version="6">
     <Images>
-        <Image path="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\10hachi_ushimizuoke.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\10hachi\10hachi_ushimizuoke.png" />
     </Images>
     <Modules>
         <Module h="264" w="227" x="2" y="8" id="0" />
-        <Module h="62" w="31" x="229" y="190" id="0" />
+        <Module h="73" w="36" x="230" y="190" id="0" />
     </Modules>
     <Frames>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-147" m10="0" m11="1" m12="-217" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-137" m10="0" m11="1" m12="-229" module_id="0" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="35" m10="0" m11="1" m12="-140" module_id="1" image_id="0" />
+            <Sprite m00="1" m01="0" m02="39" m10="0" m11="1" m12="-156" module_id="1" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="-45" cr="25" ct="-69" cl="-12" cx="0" cy="0" name="xy">
-            <Sprite m00="1" m01="0" m02="-147" m10="0" m11="1" m12="-217" module_id="0" image_id="0" />
+        <Frame ab="0" ar="0" at="0" al="0" cb="-45" cr="25" ct="-80" cl="2" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-137" m10="0" m11="1" m12="-229" module_id="0" image_id="0" />
         </Frame>
     </Frames>
     <Actions>
