@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\05tunnel_shell_siro_repair.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\05tunnel\05tunnel_shell_siro_repair.png" version="6">
     <Images>
-        <Image path="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\05tunnel_shell_siro_repair.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\05tunnel\05tunnel_shell_siro_repair.png" />
     </Images>
     <Modules>
         <Module h="225" w="237" x="1" y="2" id="0" />
@@ -9,13 +9,13 @@
     </Modules>
     <Frames>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-119" m10="0" m11="1" m12="-184" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-115" m10="0" m11="1" m12="-184" module_id="0" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
             <Sprite m00="1" m01="0" m02="-11" m10="0" m11="1" m12="-24" module_id="1" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="10" cr="8" ct="-24" cl="-37" cx="0" cy="0" name="xy">
-            <Sprite m00="1" m01="0" m02="-119" m10="0" m11="1" m12="-184" module_id="0" image_id="0" />
+        <Frame ab="0" ar="0" at="0" al="0" cb="10" cr="8" ct="-25" cl="-36" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-115" m10="0" m11="1" m12="-184" module_id="0" image_id="0" />
         </Frame>
     </Frames>
     <Actions>
