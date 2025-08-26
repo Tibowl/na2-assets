@@ -9,7 +9,7 @@
     </Modules>
     <Frames>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="42" m10="0" m11="1" m12="-378" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-12" m10="0" m11="1" m12="-366" module_id="0" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
             <Sprite m00="1" m01="0" m02="-88" m10="0" m11="1" m12="-155" module_id="1" image_id="0" />
