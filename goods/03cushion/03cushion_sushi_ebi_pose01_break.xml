@@ -1,32 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\03cushion_sushi_ebi_break.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\03cushion\03cushion_sushi_ebi_break.png" version="6">
     <Images>
-        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\03cushion_sushi_ebi_break.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\03cushion\03cushion_sushi_ebi_break.png" />
     </Images>
     <Modules>
-        <Module h="146" w="265" x="2" y="4" id="0" />
+        <Module h="142" w="267" x="2" y="17" id="0" />
         <Module h="146" w="264" x="5" y="189" id="0" />
         <Module h="126" w="249" x="292" y="235" id="0" />
         <Module h="16" w="19" x="398" y="204" id="0" />
     </Modules>
     <Frames>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-147" m10="0" m11="1" m12="-82" module_id="2" image_id="0" />
-            <Sprite m00="1" m01="0" m02="-158" m10="0" m11="1" m12="-173" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-154" m10="0" m11="1" m12="-86" module_id="2" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-165" m10="0" m11="1" m12="-164" module_id="0" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
             <Sprite m00="1" m01="0" m02="-16" m10="0" m11="1" m12="-17" module_id="3" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-147" m10="0" m11="1" m12="-82" module_id="2" image_id="0" />
-            <Sprite m00="1" m01="0" m02="-158" m10="0" m11="1" m12="-173" module_id="1" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-154" m10="0" m11="1" m12="-86" module_id="2" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-164" m10="0" m11="1" m12="-178" module_id="1" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
             <Sprite m00="1" m01="0" m02="-47" m10="0" m11="1" m12="-122" module_id="3" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="-20" cr="46" ct="-102" cl="-20" cx="0" cy="0" name="xy">
-            <Sprite m00="1" m01="0" m02="-147" m10="0" m11="1" m12="-82" module_id="2" image_id="0" />
-            <Sprite m00="1" m01="0" m02="-158" m10="0" m11="1" m12="-173" module_id="1" image_id="0" />
+        <Frame ab="0" ar="0" at="0" al="0" cb="-20" cr="46" ct="-126" cl="-29" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-154" m10="0" m11="1" m12="-86" module_id="2" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-164" m10="0" m11="1" m12="-178" module_id="1" image_id="0" />
         </Frame>
     </Frames>
     <Actions>
@@ -44,9 +44,9 @@
         </Action>
         <Action name="">
             <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
-            <Sequence duration="1" id="2" />
-            <Sequence duration="1" id="2" />
-            <Sequence duration="1" id="2" />
+            <Sequence duration="1" id="0" />
+            <Sequence duration="1" id="0" />
+            <Sequence duration="1" id="0" />
         </Action>
         <Action name="">
             <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
