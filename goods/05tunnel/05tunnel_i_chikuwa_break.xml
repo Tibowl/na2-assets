@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\05tunnel_i_chikuwa_break.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\05tunnel\05tunnel_i_chikuwa_break.png" version="6">
     <Images>
-        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\05tunnel_i_chikuwa_break.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\05tunnel\05tunnel_i_chikuwa_break.png" />
     </Images>
     <Modules>
         <Module h="233" w="247" x="0" y="1" id="0" />
