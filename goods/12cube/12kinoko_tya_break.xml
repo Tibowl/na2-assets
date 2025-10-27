@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\12kinoko_tya_break.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\12cube\12kinoko_tya_break.png" version="6">
     <Images>
-        <Image path="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\12kinoko_tya_break.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\12cube\12kinoko_tya_break.png" />
     </Images>
     <Modules>
         <Module h="266" w="291" x="4" y="5" id="0" />
@@ -14,11 +14,11 @@
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
             <Sprite m00="1" m01="0" m02="-143" m10="0" m11="1" m12="-164" module_id="1" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="16" cr="79" ct="-13" cl="7" cx="0" cy="0" name="xy">
+        <Frame ab="0" ar="0" at="0" al="0" cb="16" cr="79" ct="-21" cl="7" cx="0" cy="0" name="xy">
             <Sprite m00="1" m01="0" m02="-144" m10="0" m11="1" m12="-253" module_id="0" image_id="0" />
             <Sprite m00="1" m01="0" m02="-143" m10="0" m11="1" m12="-164" module_id="1" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="-100" cr="96" ct="-188" cl="4" cx="0" cy="0" name="xy">
+        <Frame ab="0" ar="0" at="0" al="0" cb="-100" cr="96" ct="-186" cl="7" cx="0" cy="0" name="xy">
             <Sprite m00="1" m01="0" m02="-144" m10="0" m11="1" m12="-253" module_id="0" image_id="0" />
             <Sprite m00="1" m01="0" m02="-143" m10="0" m11="1" m12="-164" module_id="1" image_id="0" />
         </Frame>
