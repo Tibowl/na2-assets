@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\10hachi_chagama.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\10hachi\10hachi_chagama.png" version="6">
     <Images>
-        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\10hachi_chagama.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\10hachi\10hachi_chagama.png" />
     </Images>
     <Modules>
         <Module h="170" w="220" x="0" y="0" id="0" />
@@ -9,13 +9,13 @@
     </Modules>
     <Frames>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-112" m10="0" m11="1" m12="-100" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-112" m10="0" m11="1" m12="-140" module_id="0" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
             <Sprite m00="1" m01="0" m02="-7" m10="0" m11="1" m12="-5" module_id="1" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="-42" cr="14" ct="-60" cl="-6" cx="0" cy="0" name="xy">
-            <Sprite m00="1" m01="0" m02="-112" m10="0" m11="1" m12="-100" module_id="0" image_id="0" />
+        <Frame ab="0" ar="0" at="0" al="0" cb="-42" cr="14" ct="-101" cl="-5" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-112" m10="0" m11="1" m12="-140" module_id="0" image_id="0" />
         </Frame>
     </Frames>
     <Actions>
