@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\02danbo_gift_break.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\02danbo\02danbo_gift_break.png" version="6">
     <Images>
-        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\02danbo_gift_break.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\02danbo\02danbo_gift_break.png" />
     </Images>
     <Modules>
         <Module h="178" w="260" x="0" y="0" id="0" />
@@ -16,9 +16,9 @@
             <Sprite m00="1" m01="0" m02="-4" m10="0" m11="1" m12="-2" module_id="1" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-135" m10="0" m11="1" m12="-138" module_id="2" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-134" m10="0" m11="1" m12="-132" module_id="2" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="42" cr="26" ct="16" cl="3" cx="0" cy="0" name="xy">
+        <Frame ab="0" ar="0" at="0" al="0" cb="42" cr="26" ct="29" cl="5" cx="0" cy="0" name="xy">
             <Sprite m00="1" m01="0" m02="-135" m10="0" m11="1" m12="-138" module_id="0" image_id="0" />
         </Frame>
     </Frames>
