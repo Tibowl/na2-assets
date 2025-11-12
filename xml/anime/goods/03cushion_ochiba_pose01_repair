@@ -18,9 +18,9 @@
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
             <Sprite m00="1" m01="0" m02="-46" m10="0" m11="1" m12="-58" module_id="1" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="28" cr="38" ct="-2" cl="-45" cx="0" cy="0" name="xy">
+        <Frame ab="0" ar="0" at="0" al="0" cb="28" cr="38" ct="-7" cl="-41" cx="0" cy="0" name="xy">
             <Sprite m00="1" m01="0" m02="-153" m10="0" m11="1" m12="-230" module_id="0" image_id="0" />
-            <Sprite m00="1" m01="0" m02="-46" m10="0" m11="1" m12="-58" module_id="1" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-47" m10="0" m11="1" m12="-59" module_id="1" image_id="0" />
         </Frame>
     </Frames>
     <Actions>
