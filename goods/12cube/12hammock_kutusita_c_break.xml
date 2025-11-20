@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\Users\mase\project\Nekoatsume2_\program\Nekoatsume2\Assets\Visual\goods\12hammock_kutusita_c_break.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\12cube\12hammock_kutusita_c_break.png" version="6">
     <Images>
-        <Image path="C:\Users\mase\project\Nekoatsume2_\program\Nekoatsume2\Assets\Visual\goods\12hammock_kutusita_c_break.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\12cube\12hammock_kutusita_c_break.png" />
     </Images>
     <Modules>
         <Module h="169" w="177" x="1" y="9" id="0" />
@@ -27,7 +27,7 @@
             <Sprite m00="1" m01="0" m02="-56" m10="0" m11="1" m12="-251" module_id="4" image_id="0" />
             <Sprite m00="1" m01="0" m02="-61" m10="0" m11="1" m12="-163" module_id="5" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="-101" cr="42" ct="-184" cl="6" cx="0" cy="0" name="xy">
+        <Frame ab="0" ar="0" at="0" al="0" cb="-101" cr="42" ct="-184" cl="5" cx="0" cy="0" name="xy">
             <Sprite m00="1" m01="0" m02="-85" m10="0" m11="1" m12="-138" module_id="0" image_id="0" />
             <Sprite m00="1" m01="0" m02="-20" m10="0" m11="1" m12="-306" module_id="1" image_id="0" />
             <Sprite m00="1" m01="0" m02="-56" m10="0" m11="1" m12="-251" module_id="4" image_id="0" />
