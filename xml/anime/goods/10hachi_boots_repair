@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animation image="C:\Users\nattu\★kitahara_work\仕事\ねこあつめ\作業\ねこ２\さんたさん差分\data\実装データ\xml\10hachi_boots_repair.png" version="6">
+    <Images>
+        <Image path="C:\Users\nattu\★kitahara_work\仕事\ねこあつめ\作業\ねこ２\さんたさん差分\data\実装データ\xml\10hachi_boots_repair.png" />
+    </Images>
+    <Modules>
+        <Module h="162" w="176" x="0" y="0" id="0" />
+        <Module h="25" w="16" x="6" y="37" id="0" />
+    </Modules>
+    <Frames>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-97" m10="0" m11="1" m12="-123" module_id="0" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-8" m10="0" m11="1" m12="-15" module_id="1" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="-80" cr="20" ct="-91" cl="5" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-97" m10="0" m11="1" m12="-123" module_id="0" image_id="0" />
+        </Frame>
+    </Frames>
+    <Actions>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="0" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="1" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="0" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="1" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="2" />
+        </Action>
+    </Actions>
+</Animation>
