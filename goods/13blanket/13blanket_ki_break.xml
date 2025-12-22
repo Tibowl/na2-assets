@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\13blanket_ki_break.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\13blanket\13blanket_ki_break.png" version="6">
     <Images>
-        <Image path="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\goods\13blanket_ki_break.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\13blanket\13blanket_ki_break.png" />
     </Images>
     <Modules>
         <Module h="151" w="233" x="9" y="4" id="0" />
@@ -10,16 +10,16 @@
     </Modules>
     <Frames>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-120" m10="0" m11="1" m12="-102" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-119" m10="0" m11="1" m12="-103" module_id="0" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
             <Sprite m00="1" m01="0" m02="-24" m10="0" m11="1" m12="-20" module_id="2" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-119" m10="0" m11="1" m12="-142" module_id="1" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-119" m10="0" m11="1" m12="-140" module_id="1" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="32" cr="40" ct="-7" cl="3" cx="0" cy="0" name="xy">
-            <Sprite m00="1" m01="0" m02="-119" m10="0" m11="1" m12="-142" module_id="1" image_id="0" />
+        <Frame ab="0" ar="0" at="0" al="0" cb="32" cr="40" ct="-4" cl="3" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-119" m10="0" m11="1" m12="-140" module_id="1" image_id="0" />
         </Frame>
     </Frames>
     <Actions>
