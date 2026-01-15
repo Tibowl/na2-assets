@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="E:\マイドキュメント\kemco\ねこ関連\goods_main_break\03cushion_chigura_break.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\03cushion\03cushion_chigura_break.png" version="6">
     <Images>
-        <Image path="E:\マイドキュメント\kemco\ねこ関連\goods_main_break\03cushion_chigura_break.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\03cushion\03cushion_chigura_break.png" />
     </Images>
     <Modules>
         <Module h="228" w="245" x="4" y="11" id="0" />
@@ -9,13 +9,13 @@
     </Modules>
     <Frames>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-97" m10="0" m11="1" m12="-79" module_id="1" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-99" m10="0" m11="1" m12="-77" module_id="1" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-122" m10="0" m11="1" m12="-185" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-119" m10="0" m11="1" m12="-184" module_id="0" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="17" cr="60" ct="-6" cl="8" cx="0" cy="0" name="xy">
-            <Sprite m00="1" m01="0" m02="-122" m10="0" m11="1" m12="-185" module_id="0" image_id="0" />
+        <Frame ab="0" ar="0" at="0" al="0" cb="17" cr="60" ct="-7" cl="13" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-119" m10="0" m11="1" m12="-184" module_id="0" image_id="0" />
         </Frame>
     </Frames>
     <Actions>
