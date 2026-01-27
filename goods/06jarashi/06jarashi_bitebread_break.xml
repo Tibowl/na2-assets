@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animation image="C:\Users\katsuta\Desktop\2026,01かみかみトースト\06jarashi_bitebread\goods_main\06jarashi_bread_break.png" version="6">
+    <Images>
+        <Image path="C:\Users\katsuta\Desktop\2026,01かみかみトースト\06jarashi_bitebread\goods_main\06jarashi_bread_break.png" />
+    </Images>
+    <Modules>
+        <Module h="71" w="128" x="0" y="45" id="0" />
+        <Module h="26" w="23" x="0" y="0" id="0" />
+        <Module h="105" w="137" x="138" y="11" id="0" />
+        <Module h="104" w="137" x="285" y="12" id="0" />
+        <Module h="101" w="139" x="432" y="15" id="0" />
+    </Modules>
+    <Frames>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-53" m10="0" m11="1" m12="-33" module_id="0" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-16" m10="0" m11="1" m12="-16" module_id="1" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-54" m10="0" m11="1" m12="-87" module_id="2" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-54" m10="0" m11="1" m12="-86" module_id="3" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-55" m10="0" m11="1" m12="-83" module_id="4" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="50" cr="50" ct="0" cl="-10" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-53" m10="0" m11="1" m12="-33" module_id="0" image_id="0" />
+        </Frame>
+    </Frames>
+    <Actions>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="0" />
+            <Sequence duration="1" id="0" />
+            <Sequence duration="1" id="0" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="1" />
+            <Sequence duration="1" id="1" />
+            <Sequence duration="1" id="1" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="1" />
+            <Sequence duration="1" id="1" />
+            <Sequence duration="1" id="1" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="2" />
+            <Sequence duration="1" id="2" />
+            <Sequence duration="1" id="2" />
+            <Sequence duration="1" id="3" />
+            <Sequence duration="1" id="3" />
+            <Sequence duration="1" id="3" />
+            <Sequence duration="1" id="4" />
+            <Sequence duration="1" id="4" />
+            <Sequence duration="1" id="4" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="5" />
+        </Action>
+    </Actions>
+</Animation>
