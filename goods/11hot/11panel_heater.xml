@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\Users\Winnie\Desktop\Neko2\グッズ作業用\XML\11panel_heater.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\11hot\11panel_heater.png" version="6">
     <Images>
-        <Image path="C:\Users\Winnie\Desktop\Neko2\グッズ作業用\XML\11panel_heater.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\11hot\11panel_heater.png" />
     </Images>
     <Modules>
         <Module h="238" w="230" x="0" y="0" id="0" />
@@ -9,16 +9,16 @@
     </Modules>
     <Frames>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-125" m10="0" m11="1" m12="-218" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-118" m10="0" m11="1" m12="-214" module_id="0" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
             <Sprite m00="1" m01="0" m02="-5" m10="0" m11="1" m12="-4" module_id="1" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="76" cr="164" ct="53" cl="140" cx="0" cy="0" name="xy">
-            <Sprite m00="1" m01="0" m02="-125" m10="0" m11="1" m12="-218" module_id="0" image_id="0" />
+        <Frame ab="0" ar="0" at="0" al="0" cb="76" cr="164" ct="50" cl="142" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-118" m10="0" m11="1" m12="-214" module_id="0" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="193" cr="-35" ct="149" cl="-81" cx="0" cy="0" name="xy">
-            <Sprite m00="1" m01="0" m02="-125" m10="0" m11="1" m12="-218" module_id="0" image_id="0" />
+        <Frame ab="0" ar="0" at="0" al="0" cb="193" cr="-35" ct="146" cl="-70" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-118" m10="0" m11="1" m12="-214" module_id="0" image_id="0" />
         </Frame>
     </Frames>
     <Actions>
