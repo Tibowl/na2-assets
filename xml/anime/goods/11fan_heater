@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\Users\Winnie\Desktop\Neko2\グッズ作業用\XML\11fan_heater.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\11hot\11fan_heater.png" version="6">
     <Images>
-        <Image path="C:\Users\Winnie\Desktop\Neko2\グッズ作業用\XML\11fan_heater.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\11hot\11fan_heater.png" />
     </Images>
     <Modules>
         <Module h="250" w="250" x="0" y="0" id="0" />
@@ -9,19 +9,19 @@
     </Modules>
     <Frames>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-100" m10="0" m11="1" m12="-265" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-162" m10="0" m11="1" m12="-252" module_id="0" image_id="0" />
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
             <Sprite m00="1" m01="0" m02="-2" m10="0" m11="1" m12="-1" module_id="1" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="-4" cr="271" ct="-70" cl="256" cx="0" cy="0" name="xy">
-            <Sprite m00="1" m01="0" m02="-100" m10="0" m11="1" m12="-265" module_id="0" image_id="0" />
+        <Frame ab="0" ar="0" at="0" al="0" cb="-4" cr="271" ct="-74" cl="218" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-162" m10="0" m11="1" m12="-252" module_id="0" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="128" cr="173" ct="80" cl="122" cx="0" cy="0" name="xy">
-            <Sprite m00="1" m01="0" m02="-100" m10="0" m11="1" m12="-265" module_id="0" image_id="0" />
+        <Frame ab="0" ar="0" at="0" al="0" cb="128" cr="173" ct="101" cl="62" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-162" m10="0" m11="1" m12="-252" module_id="0" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="147" cr="4" ct="112" cl="-86" cx="0" cy="0" name="xy">
-            <Sprite m00="1" m01="0" m02="-100" m10="0" m11="1" m12="-265" module_id="0" image_id="0" />
+        <Frame ab="0" ar="0" at="0" al="0" cb="150" cr="4" ct="146" cl="-155" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-162" m10="0" m11="1" m12="-252" module_id="0" image_id="0" />
         </Frame>
     </Frames>
     <Actions>
