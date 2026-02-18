@@ -7,6 +7,7 @@
         <Module h="174" w="204" x="0" y="0" id="0" />
         <Module h="217" w="279" x="0" y="174" id="0" />
         <Module h="166" w="130" x="204" y="1" id="0" />
+        <Module h="166" w="132" x="282" y="178" id="0" />
     </Modules>
     <Frames>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="29" cy="5" name="">
@@ -18,6 +19,9 @@
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
             <Sprite m00="1" m01="0" m02="26" m10="0" m11="1" m12="-126" module_id="2" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="25" m10="0" m11="1" m12="-120" module_id="3" image_id="0" />
         </Frame>
     </Frames>
     <Actions>
@@ -38,6 +42,10 @@
             <Sequence duration="1" id="1" />
             <Sequence duration="1" id="1" />
             <Sequence duration="1" id="1" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="3" />
         </Action>
     </Actions>
 </Animation>

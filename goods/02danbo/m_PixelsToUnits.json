@@ -33,5 +33,8 @@
   "02danbo_shop_break": 100,
   "02danbo_shop_repair": 100,
   "02danbo_s_break": 100,
-  "02danbo_s_repair": 100
+  "02danbo_s_repair": 100,
+  "02danbo_train": 100,
+  "02danbo_train_break": 100,
+  "02danbo_train_repair": 100
 }
