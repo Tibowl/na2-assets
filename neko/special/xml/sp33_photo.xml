@@ -1,17 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\Users\nattu\★kitahara_work\仕事\ねこあつめ\作業\ねこ２\ねこ\カメラマンさん\清書\png\sp34_cameraman.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\neko\special\png\sp33_photo.png" version="6">
     <Images>
-        <Image path="C:\Users\nattu\★kitahara_work\仕事\ねこあつめ\作業\ねこ２\ねこ\カメラマンさん\清書\png\sp34_cameraman.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\neko\special\png\sp33_photo.png" />
     </Images>
     <Modules>
         <Module h="209" w="202" x="0" y="0" id="0" />
+        <Module h="22" w="17" x="176" y="173" id="0" />
     </Modules>
     <Frames>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-105" m10="0" m11="1" m12="-169" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-105" m10="0" m11="1" m12="-192" module_id="0" image_id="0" />
         </Frame>
-        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="106" cy="-38" name="">
-            <Sprite m00="1" m01="0" m02="-105" m10="0" m11="1" m12="-169" module_id="0" image_id="0" />
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-7" m10="0" m11="1" m12="-10" module_id="1" image_id="0" />
         </Frame>
     </Frames>
     <Actions>
