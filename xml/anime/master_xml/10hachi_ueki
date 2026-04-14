@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\neko\normal\00_sironeko_san\10hachi_ueki.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\neko\normal\36_torapointo_san\10hachi_ueki.png" version="6">
     <Images>
-        <Image path="C:\hitpoint\Nekoatsume2\program\Nekoatsume2\Assets\Visual\neko\normal\00_sironeko_san\10hachi_ueki.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\neko\normal\36_torapointo_san\10hachi_ueki.png" />
     </Images>
     <Modules>
-        <Module h="69" w="124" x="0" y="0" id="0" />
+        <Module h="68" w="124" x="0" y="0" id="0" />
     </Modules>
     <Frames>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
