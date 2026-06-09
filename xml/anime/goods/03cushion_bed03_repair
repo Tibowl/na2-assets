@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\03cushion_bed03_repair.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\03cushion\03cushion_bed03_repair.png" version="6">
     <Images>
-        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\03cushion_bed03_repair.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\03cushion\03cushion_bed03_repair.png" />
     </Images>
     <Modules>
         <Module h="172" w="277" x="6" y="4" id="0" />
