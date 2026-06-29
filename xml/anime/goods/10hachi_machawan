@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Animation image="C:\Users\nattu\★kitahara_work\仕事\ねこあつめ\★作業\ねこ２\★ねこ\抹茶椀\10hachi_machawan.png" version="6">
+    <Images>
+        <Image path="C:\Users\nattu\★kitahara_work\仕事\ねこあつめ\★作業\ねこ２\★ねこ\抹茶椀\10hachi_machawan.png" />
+    </Images>
+    <Modules>
+        <Module h="122" w="184" x="0" y="67" id="0" />
+        <Module h="65" w="185" x="0" y="0" id="0" />
+    </Modules>
+    <Frames>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-92" m10="0" m11="1" m12="-140" module_id="1" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="76" cy="-100" name="">
+            <Sprite m00="1" m01="0" m02="-92" m10="0" m11="1" m12="-97" module_id="0" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="-3" cr="20" ct="-35" cl="-3" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-92" m10="0" m11="1" m12="-97" module_id="0" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="50" cr="50" ct="-21" cl="-38" cx="0" cy="0" name="xy">
+            <Sprite m00="1" m01="0" m02="-92" m10="0" m11="1" m12="-140" module_id="1" image_id="0" />
+        </Frame>
+    </Frames>
+    <Actions>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="0" />
+            <Sequence duration="1" id="0" />
+            <Sequence duration="1" id="0" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="1" />
+            <Sequence duration="1" id="1" />
+            <Sequence duration="1" id="1" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="0" />
+            <Sequence duration="1" id="0" />
+            <Sequence duration="1" id="0" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="1" />
+            <Sequence duration="1" id="1" />
+            <Sequence duration="1" id="1" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="2" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="3" />
+        </Action>
+    </Actions>
+</Animation>

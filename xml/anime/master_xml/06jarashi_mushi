@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\neko\normal\00_sironeko_san\06jarashi_mushi.png" version="6">
+<Animation image="C:\Users\nattu\★kitahara_work\仕事\ねこあつめ\★作業\ねこ２\★ねこ\だんご\資料\xml\06jarashi_mushi.png" version="6">
     <Images>
-        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\neko\normal\00_sironeko_san\06jarashi_mushi.png" />
+        <Image path="C:\Users\nattu\★kitahara_work\仕事\ねこあつめ\★作業\ねこ２\★ねこ\だんご\資料\xml\06jarashi_mushi.png" />
     </Images>
     <Modules>
         <Module h="167" w="200" x="1" y="6" id="0" />
@@ -14,6 +14,7 @@
         <Module h="120" w="203" x="386" y="258" id="0" />
         <Module h="141" w="247" x="590" y="237" id="0" />
         <Module h="162" w="157" x="202" y="6" id="0" />
+        <Module h="127" w="154" x="762" y="0" id="0" />
     </Modules>
     <Frames>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
@@ -51,6 +52,9 @@
         </Frame>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
             <Sprite m00="1" m01="0" m02="-79" m10="0" m11="1" m12="-56" module_id="9" image_id="0" />
+        </Frame>
+        <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
+            <Sprite m00="1" m01="0" m02="-66" m10="0" m11="1" m12="-93" module_id="10" image_id="0" />
         </Frame>
     </Frames>
     <Actions>
@@ -96,6 +100,10 @@
         <Action name="">
             <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
             <Sequence duration="1" id="4" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="12" />
         </Action>
     </Actions>
 </Animation>
