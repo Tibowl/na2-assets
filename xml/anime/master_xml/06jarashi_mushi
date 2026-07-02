@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\Users\nattu\★kitahara_work\仕事\ねこあつめ\★作業\ねこ２\★ねこ\だんご\資料\xml\06jarashi_mushi.png" version="6">
+<Animation image="C:\Users\katsu\OneDrive\Desktop\ねこあつめ２\ねこ画像関連\既存通常ねこ\PNG\00_sironeko_san\06jarashi_mushi.png" version="6">
     <Images>
-        <Image path="C:\Users\nattu\★kitahara_work\仕事\ねこあつめ\★作業\ねこ２\★ねこ\だんご\資料\xml\06jarashi_mushi.png" />
+        <Image path="C:\Users\katsu\OneDrive\Desktop\ねこあつめ２\ねこ画像関連\既存通常ねこ\PNG\00_sironeko_san\06jarashi_mushi.png" />
     </Images>
     <Modules>
         <Module h="167" w="200" x="1" y="6" id="0" />
@@ -104,6 +104,12 @@
         <Action name="">
             <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
             <Sequence duration="1" id="12" />
+        </Action>
+        <Action name="">
+            <MechModel ax="0" ay="0" flag="0" vx="0" vy="0" enable_pre="False" pre="256" />
+            <Sequence duration="1" id="0" />
+            <Sequence duration="1" id="0" />
+            <Sequence duration="1" id="0" />
         </Action>
     </Actions>
 </Animation>

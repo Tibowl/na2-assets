@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\12hammock_wa_repair.png" version="6">
+<Animation image="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\12cube\12hammock_wa_repair.png" version="6">
     <Images>
-        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\12hammock_wa_repair.png" />
+        <Image path="C:\Users\ny\nekoatsume_2\program\Nekoatsume2\Assets\Visual\goods\12cube\12hammock_wa_repair.png" />
     </Images>
     <Modules>
         <Module h="191" w="302" x="9" y="17" id="0" />
