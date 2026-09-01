@@ -8,7 +8,7 @@
     </Modules>
     <Frames>
         <Frame ab="0" ar="0" at="0" al="0" cb="0" cr="0" ct="0" cl="0" cx="0" cy="0" name="">
-            <Sprite m00="1" m01="0" m02="-98" m10="0" m11="1" m12="-144" module_id="0" image_id="0" />
+            <Sprite m00="1" m01="0" m02="-95" m10="0" m11="1" m12="-172" module_id="0" image_id="0" />
         </Frame>
     </Frames>
     <Actions>
